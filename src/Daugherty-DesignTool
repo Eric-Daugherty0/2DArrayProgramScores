@@ -1,0 +1,46 @@
+Pseudo Code
+
+Setting the game score to 0 and creating a 2D 
+array to store the game scores. 
+
+
+Creating the game scores menu to explain the directions 
+to the user while also receiving their input to save, 
+compare, display, and sort the game scores.
+
+
+If the user chooses A
+The user will enter teams score
+The user will enter opponents score
+The score will be saved and the games will
+be increased by one. 
+
+If the user chooses B
+The program will go through all the games
+The program will compare our score to the opponents score
+The program will count the wins, losses, and ties
+The current record will be displayed
+
+If the user chooses C
+The program will go through all the games
+The program will check if our score is higher than the opponents score
+If we won the game, the scores will be displayed
+If there are no wins, a message will be displayed
+
+If the user chooses D
+The game scores will be copied into a separate array
+The program will use bubble sort to compare the opponents scores
+If one opponents score is higher than the next score
+The scores will be swapped
+This will keep going until the scores are from lowest to highest
+All of the sorted game results will be displayed
+
+If the user chooses E
+The program will exit
+
+If the user enters anything else
+An invalid choice message will be displayed
+
+The menu will keep running until the user chooses E
+
+
